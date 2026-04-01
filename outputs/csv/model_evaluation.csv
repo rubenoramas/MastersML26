@@ -1,0 +1,8 @@
+target,type,roc_auc,log_loss,mae,rmse
+won,classifier,0.9625,0.0463,,
+top5,classifier,0.9158,0.1783,,
+top10,classifier,0.7221,0.463,,
+top16,classifier,0.6202,0.723,,
+top32,classifier,0.5638,0.8653,,
+made_cut,classifier,0.744,0.5798,,
+finish_position,regressor,,,24.28,29.01

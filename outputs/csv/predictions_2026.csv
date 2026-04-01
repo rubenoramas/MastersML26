@@ -1,0 +1,94 @@
+player_name,country,win_pct,model_win_pct,dg_win_pct,top5_pct,top10_pct,top16_pct,top32_pct,made_cut_pct,proj_finish,dg_final_pred,sg_source,limited_data
+Tommy Fleetwood,England,16.49,26.1997,1.9323,4.12,3.88,7.23,75.22,89.89,40.4,1.50880501038196,skill-ratings,False
+Hideki Matsuyama,Japan,9.24,14.3946,1.5039,64.68,50.53,67.12,94.35,88.42,37.5,1.33803711645361,skill-ratings,False
+Matt Fitzpatrick,England,7.22,10.5949,2.1469,8.2,25.82,29.67,92.19,94.12,21.6,,skill-ratings,False
+Viktor Hovland,Norway,6.4,9.7891,1.3188,9.0,8.29,66.19,79.48,98.64,20.5,,skill-ratings,False
+Patrick Cantlay,United States,4.95,7.2549,1.4959,76.95,58.57,42.11,60.07,94.23,25.7,,skill-ratings,False
+Rory McIlroy,Northern Ireland,3.25,3.7422,2.5178,16.51,57.7,75.27,96.0,97.69,32.6,,skill-ratings,False
+Collin Morikawa,United States,2.55,2.9831,1.9016,31.54,73.83,58.3,84.84,98.37,13.3,1.23202989484711,skill-ratings,False
+Scottie Scheffler,United States,1.84,0.7829,3.4145,21.9,19.05,17.47,98.02,92.59,32.8,,skill-ratings,False
+Sepp Straka,Austria,1.79,2.147,1.2662,3.04,2.73,8.54,30.46,42.76,44.6,1.02143311115433,skill-ratings,False
+Jordan Spieth,United States,1.68,1.9728,1.2445,3.83,19.2,44.93,60.22,89.94,26.7,1.36270445774419,skill-ratings,False
+Robert MacIntyre,Scotland,1.51,1.3225,1.7837,45.12,14.43,60.79,77.02,68.58,35.0,1.49420430431994,skill-ratings,False
+Min Woo Lee,Australia,1.48,1.1872,1.9195,20.81,6.87,2.5,44.54,62.91,65.7,,skill-ratings,False
+Xander Schauffele,United States,1.47,0.971,2.2168,25.87,64.3,74.81,90.88,81.27,35.1,,skill-ratings,False
+Jon Rahm,Spain,1.43,0.5344,2.777,13.09,53.56,45.69,97.19,95.54,30.4,,skill-ratings,False
+Russell Henley,United States,1.41,1.2062,1.7241,6.99,3.05,14.7,71.18,91.86,30.8,1.4412545381859,skill-ratings,False
+Bryson DeChambeau,United States,1.39,1.0102,1.9582,1.25,15.11,18.92,70.34,93.86,35.5,,skill-ratings,False
+Nicolai Hojgaard,Denmark,1.33,1.2856,1.391,10.22,1.8,5.93,23.89,38.1,65.3,,skill-ratings,False
+Justin Thomas,United States,1.31,1.3634,1.2337,12.56,71.05,79.25,93.48,97.51,16.8,,skill-ratings,False
+Sungjae Im,Korea,1.3,1.5803,0.8735,7.23,20.17,19.88,83.39,95.17,18.7,,skill-ratings,False
+Cameron Young,United States,1.29,0.7434,2.1115,15.5,7.95,30.33,51.67,78.04,46.3,,skill-ratings,False
+Chris Gotterup,United States,1.0,0.7373,1.3818,4.39,0.53,1.7,8.57,6.7,77.7,,skill-ratings,False
+Shane Lowry,Ireland,0.93,0.8058,1.1111,8.83,16.1,62.96,27.91,89.32,27.5,,skill-ratings,False
+Ludvig Aberg,Sweden,0.93,0.3448,1.7981,18.02,7.48,7.55,13.41,45.53,60.5,1.43569415790046,skill-ratings,False
+Akshay Bhatia,United States,0.91,0.5605,1.4296,2.56,0.11,1.32,13.8,50.43,62.1,,skill-ratings,False
+Maverick McNealy,United States,0.89,0.484,1.4919,5.34,1.52,1.73,21.39,51.46,62.9,1.23365497143973,skill-ratings,False
+Si Woo Kim,Korea,0.82,0.2471,1.6843,22.18,20.66,9.03,43.07,88.5,44.9,1.4431183525163,skill-ratings,False
+Cameron Smith,Australia,0.77,0.7882,0.7379,0.48,15.21,14.44,74.96,68.22,30.5,,skill-ratings,False
+Ryan Gerard,United States,0.76,0.3757,1.3481,5.6,2.75,21.5,32.33,18.91,59.1,,skill-ratings,False
+Justin Rose,England,0.75,0.544,1.0619,7.5,41.63,59.71,56.5,88.74,19.2,,skill-ratings,False
+Jacob Bridgeman,United States,0.69,0.0916,1.5799,5.29,6.52,8.91,26.95,45.13,67.4,,skill-ratings,False
+Patrick Reed,United States,0.69,0.4536,1.0374,0.91,7.54,35.02,27.56,90.63,23.1,,skill-ratings,False
+Jake Knapp,United States,0.65,0.1,1.479,31.6,9.01,15.5,31.78,41.76,58.8,,skill-ratings,False
+Keegan Bradley,United States,0.64,0.4188,0.9809,34.66,5.41,71.38,56.46,98.75,18.8,,skill-ratings,False
+Gary Woodland,United States,0.54,0.3399,0.8381,38.02,7.45,17.06,19.34,16.51,69.6,,skill-ratings,False
+Jason Day,Australia,0.54,0.1904,1.0569,0.09,0.64,7.09,81.06,97.5,24.7,,skill-ratings,False
+Ben Griffin,United States,0.52,0.0241,1.2528,0.28,0.14,0.82,7.01,25.98,64.8,,skill-ratings,False
+Harris English,United States,0.52,0.0198,1.2654,2.11,11.78,82.03,89.34,91.14,21.9,,skill-ratings,False
+Sam Burns,United States,0.51,0.0127,1.2545,4.06,36.73,56.72,74.79,80.94,35.8,,skill-ratings,False
+Adam Scott,Australia,0.51,0.0726,1.1743,1.85,8.52,25.01,45.5,96.51,24.8,,skill-ratings,False
+Samuel Stevens,United States,0.51,0.0035,1.2645,0.61,2.05,6.16,6.21,24.5,74.5,,skill-ratings,False
+Harry Hall,England,0.5,0.0432,1.1806,0.12,0.06,0.81,18.97,45.12,67.0,,skill-ratings,False
+Alex Noren,Sweden,0.49,0.0201,1.1885,0.2,0.12,0.73,4.39,32.61,64.0,0.980742657672975,skill-ratings,False
+Kurt Kitayama,United States,0.48,0.0056,1.1925,0.85,7.32,18.99,40.81,68.59,44.1,,skill-ratings,False
+J.J. Spaun,United States,0.47,0.0089,1.1542,1.99,31.55,28.26,72.32,90.38,19.4,0.937854506001511,skill-ratings,False
+Dustin Johnson,United States,0.46,0.4041,0.5544,0.57,1.36,7.43,67.0,61.54,57.6,,skill-ratings,False
+Corey Conners,Canada,0.45,0.0475,1.0513,4.77,18.02,20.31,31.35,95.72,30.7,,skill-ratings,False
+Tyrrell Hatton,England,0.43,0.1037,0.9293,20.09,57.38,90.25,18.56,83.94,30.5,,skill-ratings,False
+Marco Penge,England,0.42,0.0141,1.0223,1.86,3.92,32.53,17.83,51.01,52.5,0.560866289201763,skill-ratings,False
+Daniel Berger,United States,0.41,0.0389,0.9718,44.19,88.99,85.55,69.77,95.26,24.5,0.532212052368356,skill-ratings,False
+Rasmus Hojgaard,Denmark,0.4,0.0155,0.9744,2.31,1.22,5.46,9.92,51.79,61.9,,skill-ratings,False
+Nick Taylor,Canada,0.38,0.016,0.9318,52.8,16.88,8.1,8.66,29.01,70.3,0.740786092473407,skill-ratings,False
+Carlos Ortiz,Mexico,0.38,0.0342,0.9007,68.06,69.97,83.27,72.17,82.6,34.1,,skill-ratings,False
+Casey Jarvis,South Africa,0.37,0.0269,0.8917,37.82,41.5,38.75,15.21,30.71,60.0,,skill-ratings,False
+Matt McCarty,United States,0.37,0.0205,0.887,0.25,0.14,3.98,9.91,32.01,67.5,0.426330762619858,skill-ratings,False
+Aaron Rai,England,0.36,0.0101,0.8764,5.54,5.8,19.67,19.88,40.49,65.8,,skill-ratings,False
+Brooks Koepka,United States,0.35,0.0419,0.8204,9.98,17.14,59.4,57.46,64.24,44.1,,skill-ratings,False
+Ryan Fox,New Zealand,0.34,0.0347,0.7999,1.6,0.24,4.84,9.06,41.12,65.4,,skill-ratings,False
+Wyndham Clark,United States,0.34,0.0128,0.8336,32.06,6.63,25.35,16.63,27.19,61.8,,skill-ratings,False
+Tom McKibbin,Northern Ireland,0.34,0.0098,0.842,3.61,1.45,3.91,31.99,61.51,49.3,,skill-ratings,False
+Charl Schwartzel,South Africa,0.34,0.2235,0.5228,0.05,0.33,0.47,66.39,44.79,53.7,,skill-ratings,False
+Kristoffer Reitan,Norway,0.33,0.0224,0.7983,0.55,0.34,1.03,4.01,36.38,67.2,0.294612232650449,skill-ratings,False
+Haotong Li,China,0.33,0.0132,0.8166,56.14,33.13,16.01,55.16,85.7,25.7,0.316026144968439,skill-ratings,False
+John Keefer,United States,0.33,0.0058,0.8155,20.8,18.71,19.03,5.37,12.78,69.2,0.28928626032536,skill-ratings,False
+Brian Harman,United States,0.32,0.0257,0.7695,5.41,1.41,42.98,25.67,94.83,35.7,0.459412192774873,skill-ratings,False
+Rasmus Neergaard-Petersen,Denmark,0.32,0.0073,0.7851,37.27,57.76,56.64,33.06,37.24,52.1,,skill-ratings,False
+Max Greyserman,United States,0.32,0.0354,0.7548,0.16,0.08,0.7,6.11,24.15,67.1,,skill-ratings,False
+Tiger Woods,United States,0.32,0.0124,0.785,31.03,89.72,64.86,38.5,86.3,33.9,,kaggle-career,False
+Nicolas Echavarria,Colombia,0.31,0.024,0.7443,2.39,0.36,3.86,5.48,12.75,68.1,,skill-ratings,False
+Sergio Garcia,Spain,0.3,0.0478,0.6757,5.64,4.78,64.03,36.89,81.24,43.4,,skill-ratings,False
+Andrew Novak,United States,0.3,0.009,0.7404,9.65,0.47,8.03,4.84,27.43,61.3,0.357128116074977,skill-ratings,False
+Max Homa,United States,0.3,0.0239,0.7038,16.02,8.53,18.94,7.6,73.83,48.4,0.187074427183163,skill-ratings,False
+Michael Kim,United States,0.3,0.0432,0.6931,0.27,0.13,0.48,3.67,16.73,72.6,0.195177611495281,skill-ratings,False
+Zach Johnson,United States,0.29,0.1525,0.4999,0.03,0.18,0.8,12.56,46.41,71.1,,skill-ratings,False
+Sami Valimaki,Finland,0.26,0.024,0.6263,0.28,0.9,9.14,23.04,34.57,55.5,-0.0627394243715039,skill-ratings,False
+Vijay Singh,Fiji,0.26,0.1815,0.3823,0.04,0.09,0.18,8.39,82.04,60.6,,kaggle-career,False
+Angel Cabrera,Argentina,0.25,0.0088,0.6155,0.41,0.44,10.05,9.01,23.86,61.5,,kaggle-career,True
+Mateo Pulcini,Argentina,0.25,0.0088,0.6155,0.41,0.44,10.05,9.01,23.86,61.5,,kaggle-career,True
+Ethan Fang,United States,0.25,0.0088,0.6155,0.41,0.44,10.05,9.01,23.86,61.5,,kaggle-career,True
+Mason Howell,United States,0.25,0.0088,0.6155,0.41,0.44,10.05,9.01,23.86,61.5,,kaggle-career,True
+Naoyuki Kataoka,Japan,0.25,0.0088,0.6155,0.41,0.44,10.05,9.01,23.86,61.5,,kaggle-career,True
+Michael Brennan,United States,0.25,0.0088,0.6155,0.41,0.44,10.05,9.01,23.86,61.5,,kaggle-career,True
+Fifa Laopakdee,Thailand,0.25,0.0088,0.6155,0.41,0.44,10.05,9.01,23.86,61.5,,kaggle-career,True
+Jackson Herrington,United States,0.25,0.0088,0.6155,0.41,0.44,10.05,9.01,23.86,61.5,,kaggle-career,True
+Brandon Holtz,United States,0.25,0.0088,0.6155,0.41,0.44,10.05,9.01,23.86,61.5,,kaggle-career,True
+Jose Maria Olazabal,Spain,0.25,0.0088,0.6155,0.41,0.44,10.05,9.01,23.86,61.5,,kaggle-career,True
+Aldrich Potgieter,United States,0.25,0.0079,0.6098,0.54,0.61,7.94,8.02,57.1,68.5,,skill-ratings,False
+Bubba Watson,United States,0.23,0.0587,0.4969,0.23,0.6,2.05,19.85,33.17,63.9,,skill-ratings,False
+Fred Couples,United States,0.19,0.0807,0.3587,0.04,0.05,0.22,3.3,11.34,79.7,,kaggle-career,False
+Danny Willett,England,0.16,0.0668,0.2941,0.2,0.73,9.87,48.78,91.47,41.4,,skill-ratings,False
+Davis Riley,United States,0.16,0.0327,0.3476,0.05,0.11,4.37,56.92,72.32,49.4,,skill-ratings,False
+Phil Mickelson,United States,0.15,0.0721,0.2722,0.06,0.21,0.47,29.47,71.76,50.8,,skill-ratings,False
+Brian Campbell,United States,0.14,0.0483,0.2775,0.18,0.18,13.59,46.04,61.67,53.0,,skill-ratings,False
+Mike Weir,Canada,0.11,0.1039,0.1119,0.48,0.3,4.65,14.23,20.92,58.2,,kaggle-career,False
